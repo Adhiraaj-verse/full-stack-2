@@ -1,0 +1,5 @@
+print("Hello, Adhiraaj!!!")
+print(type("Adhiraaj"))
+print(type(78))
+print(type(78.55))
+print(type(True))
